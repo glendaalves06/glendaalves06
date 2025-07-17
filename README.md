@@ -27,4 +27,7 @@ target="_blank"></>
 badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/glendaalves06/glendaalves06/blob/output/github-contribution-grid-snake.svg)
 
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?glendaalves06=glendaalves06&repo=glendaalves06&theme=react)](https://github.com/glendaalves06/glendaalves06)
