@@ -21,11 +21,11 @@ jobs:
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: glendaalves06
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+      id: snake-gif
+      with:
+        github_user_name: glendaalves06
+        gif_out_path: dist/github-contribution-grid-snake.gif
+        svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
 
